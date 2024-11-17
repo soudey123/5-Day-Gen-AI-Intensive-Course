@@ -9,7 +9,6 @@ Explore the evolution of LLMs, from transformers to techniques like fine-tuning 
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): https://www.youtube.com/watch?v=F_hJ2Ey4BNc&feature=youtu.be
 
 [Optional] Read the whitepapers: 
-
 https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation
 https://www.kaggle.com/whitepaper-prompt-engineering
 
