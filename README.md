@@ -1,7 +1,7 @@
-## 5-Day-Gen-AI-Intensive-Course 🤖 🚀 💻
+# 5-Day-Gen-AI-Intensive-Course 🤖 🚀 💻
 This repository contains learning materials and the jupyter notebooks provided during the 5-day Gen AI intensive course offered by Google and Kaggle.
 
-# Day 1 "Foundational Large Language Models & Text Generation":
+## Day 1 "Foundational Large Language Models & Text Generation":
 Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration and also get trained in the art of prompt engineering for optimal LLM interaction. The code  will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
 
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM): https://www.youtube.com/watch?v=mQDlCZZsOyo&feature=youtu.be 
