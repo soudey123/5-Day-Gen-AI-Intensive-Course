@@ -41,4 +41,5 @@ Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's
 Code walkthrough and live demo link ▶️ https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
 
 [Optional] Listen to the summary podcast episode for this unit (created by NotebookLM) ▶️ https://www.youtube.com/watch?v=k9S6IhiUUj4&feature=youtu.be
+
 [Optional] Read the whitepaper ▶️ https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops
